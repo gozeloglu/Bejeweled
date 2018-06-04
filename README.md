@@ -1,6 +1,6 @@
 # BEJEWELED
 
-This game is being implemented in Java language. 
+This game has been implemented in Java language. 
 The game can being played in two different ways. 
 
 1st way:
